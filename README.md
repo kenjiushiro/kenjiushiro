@@ -13,15 +13,22 @@ I am currently learning web development
     - React
     - Jquery
     - AJAX
+  - HTML
+  - CSS
+  - SASS
 - Backend
 
   - Django
 
 - Languages
+
   - Python
   - C#
   - VBA
   - SQL
+
+- Object Oriented Programming
+- Git
 
 ---
 
