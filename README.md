@@ -1,14 +1,51 @@
-### Hi there 👋
+## Hi there 👋
 
-**kenjiushiro/kenjiushiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Kenji**, I am a developer from Argentina.
 
-Here are some ideas to get you started:
+I am currently learning web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## _Skills_
+
+- Frontend
+  - Javascript
+    - React
+    - Jquery
+    - AJAX
+- Backend
+
+  - Django
+
+- Languages
+  - Python
+  - C#
+  - VBA
+  - SQL
+
+---
+
+## _Work Experience_
+
+- Fullstack Developer
+
+  - November 2020 - Present
+  - Web developer with Python (Django) and Javascript (React, Vue)
+
+- Automation Developer
+  - August 2018 - November 2020
+  - Selenium and Webscraping with Python and Excel VBA
+
+---
+
+## _Projects_
+
+**Coming soon**
+
+---
+
+## _Social Networks_
+
+[LinkedIn](https://www.linkedin.com/in/kenji-ushiro-7b0055b7/)
+
+[Instagram](https://www.instagram.com/kenjiushiro)
