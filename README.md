@@ -45,14 +45,11 @@ I am currently learning web development
 
 ---
 
-## _Projects_
-
-**Coming soon**
-
----
 
 ## _Social Networks_
 
 [LinkedIn](https://www.linkedin.com/in/kenji-ushiro-7b0055b7/)
 
 [Instagram](https://www.instagram.com/kenjiushiro)
+
+[Website](https://www.kenjiushiro.com/)
