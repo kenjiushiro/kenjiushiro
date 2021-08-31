@@ -16,17 +16,17 @@ I am currently learning web development
   - HTML
   - CSS
   - SASS
+  - Axios
 - Backend
-
   - Django
+  - Pytest
 
 - Languages
-
   - Python
+    - Selenium
   - C#
   - VBA
   - SQL
-
 - Object Oriented Programming
 - Git
 
